@@ -1,11 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-/*
-programa exemplo para calcular a media entre 2 notas e
-imprimir a situacao do aluno
-*/
-public class Main {
+public class exemplo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat("0.00");
